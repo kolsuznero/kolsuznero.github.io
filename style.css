@@ -1,0 +1,14 @@
+body{
+background-image: url(photos/986230.png);
+background-repeat:no-repeat;
+background-position: center center;
+background-attachment: fixed;
+background-size: cover;
+}
+
+.yazi1{
+  border: 20px;
+  border-color:pink;
+  font-style: verdana;
+  text-align: center;
+}
